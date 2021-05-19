@@ -1,9 +1,9 @@
 # cool-website :+1:
 ## for cool guys
 *This page will have all the coolest stuff*
-* Race cars
+* [Race cars](https://www.formula1.com/)
 * Dunks
-* [Touchdowns](Touchdowns.md)
+* [Touchdowns](touchdowns.md)
 * Wrestling
   * and wrastling
 
