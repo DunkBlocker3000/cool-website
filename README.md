@@ -1,4 +1,4 @@
-# cool-website :+1:
+# cool-website 👍
 ## for cool guys
 *This page will have all the coolest stuff*
 * [Race cars](https://www.formula1.com/)
