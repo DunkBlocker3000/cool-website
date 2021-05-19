@@ -7,7 +7,7 @@
 * Wrestling
   * and wrastling
 
-:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
+🏈 🏀
 
 **Watch in awe as I now rank my list!**
 1. Dunks
