@@ -21,6 +21,11 @@
 4. Wrestling
 5. Touchdowns
 
+```
+printf("Hello, world);
+```
+
+
 Good foods | Bad foods
 ------------ | -------------
 Nachos | Lentils
