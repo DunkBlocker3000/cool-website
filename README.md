@@ -12,7 +12,6 @@
 **Watch in awe as I display escape characters!**
 
 \*
-\\
 \#
 
 **Watch in awe as I now rank my list!**
