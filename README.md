@@ -3,7 +3,7 @@
 *This page will have all the coolest stuff*
 * Race cars
 * Dunks
-* [Touchdowns](touchdowns.md)
+* [Touchdowns](Touchdowns.md)
 * Wrestling
   * and wrastling
 
